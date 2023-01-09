@@ -1,0 +1,7 @@
+*
+
+!src
+!src/main
+!src/main/java
+!src/main/java/*.java
+!.gitignore
